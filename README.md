@@ -2,6 +2,7 @@
 Frequency Meter, Percent Flicker, Flicker Index for IotManager by reading from Analog pin.
 
 When use Photoresitor GL5516 use voltage divider Resistense 1000 Om for maximum range of ilumination or 10kOm for more senetivity (for low light)
+
 ![freqMeter](https://user-images.githubusercontent.com/4175310/196288090-e0927166-1d5a-453d-aeca-f00d5c734c5b.png)
 
 
