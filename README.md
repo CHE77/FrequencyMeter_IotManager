@@ -10,6 +10,7 @@ Photo Resistor Module uses 10KOm resistense. Do connect it as shown on the pictu
 
 ![PhotoResiatorModule](https://user-images.githubusercontent.com/4175310/204156110-1ed5c3fe-cb17-4d95-9289-fc3cdaaf9ca4.png)
 
+This you will see at IotManager
 
 ![FreqMeterWebView](https://user-images.githubusercontent.com/4175310/196288916-9a79bb97-90c4-4f06-8625-4ccf2a6485a5.png)
 
@@ -19,5 +20,8 @@ Photo Resistor Module uses 10KOm resistense. Do connect it as shown on the pictu
 https://www.uprtek.com/ru/faq/knowledge-qa/what-is-flicker-metrics-percent-flicker-flicker-index-svm
 
 Если используйте фоторезеистор GL5516 то берите для делителя напряжения сопротивление 1000 Ом для максимального диапазна освещенности или 10кОм для большей чуствительности (при тусклом освещении)
+
+В модуле Фото-резистора используется 10кОм. Подключайте его как показано на картинке.
+Питание 3.3В в любом случае.
 
 
