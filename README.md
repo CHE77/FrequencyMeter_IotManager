@@ -8,7 +8,8 @@ When use Photoresitor GL5516 use voltage divider Resistense 1000 Om for maximum 
 You can use complete module of Photoresitor instead.
 Photoresistor Module uses 10KOm resistense. Do connect it as shown on the picture (not like shown on the module): 
 
-![PhotoResiatorModule1](https://user-images.githubusercontent.com/4175310/204157017-46357c90-b14b-4d91-afd9-462ec445316b.png)
+![PhotoResiatorModule](https://user-images.githubusercontent.com/4175310/204157057-17bec9e7-04aa-4e63-9cf3-ae940087220e.png)
+
 
 
 At Configuration select all Elements with Frequensy Meter. It shold look like this. 
