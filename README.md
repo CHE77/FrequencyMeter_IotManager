@@ -5,7 +5,8 @@ When use Photoresitor GL5516 use voltage divider Resistense 1000 Om for maximum 
 
 ![freqMeter](https://user-images.githubusercontent.com/4175310/196288090-e0927166-1d5a-453d-aeca-f00d5c734c5b.png)
 
-Photo Resistor Module uses 10KOm resistense. Do connect it as shown on the picture (not like shown on the module): 
+You can use complete module of Photoresitor instead.
+Photoresistor Module uses 10KOm resistense. Do connect it as shown on the picture (not like shown on the module): 
 
 
 ![PhotoResiatorModule](https://user-images.githubusercontent.com/4175310/204156110-1ed5c3fe-cb17-4d95-9289-fc3cdaaf9ca4.png)
@@ -32,6 +33,7 @@ https://www.uprtek.com/ru/faq/knowledge-qa/what-is-flicker-metrics-percent-flick
 
 Если используйте фоторезеистор GL5516 то берите для делителя напряжения сопротивление 1000 Ом для максимального диапазна освещенности или 10кОм для большей чуствительности (при тусклом освещении)
 
+Вы также можете использовать готовый модуль.
 В модуле Фото-резистора используется 10кОм. Подключайте его как показано на картинке (а не как указано на модуле).
 Питание 3.3В в любом случае.
 
